@@ -4,7 +4,7 @@ Difference between MOSFet, SiC MOSFET and IGBT
 
   MOSFET and IGBT are based on Silicon material, SiC MOSFET based on SiC material.
   Si MOSFET:
-    -operate in high frequency application
+    -operate in high frequency application<br />
     -low conduction loss(but not suitable for high current applications)
   SiC MOSFET:
     -higher bandgap energy and critical field breakdown voltage which is suitable for High-voltage operation
