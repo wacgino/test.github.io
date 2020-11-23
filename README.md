@@ -11,11 +11,11 @@ Difference between MOSFet, SiC MOSFET and IGBT<br />
     -higher thermal conductivity which requires less heatsinks<br />
     -lower switching loss<br />
   IGBT:<br />
-    -has internal MOSFET driving BJT, low conduction loss(conductivity modulation)<br />
+    -has internal MOSFET driving BJT, low conduction loss(conductivity modulation), could be used for high current operation<br />
     -has reverse recovery phenomena(BJT), switching frequency applications(5KHz-20KHz)<br />
 
 Drive Strength of power switch<br />
   -the drive strength of power switch is defined by the source and sink current capacility of gate drivers<br />
-  -choosing the drive strength based on the gate charge of the power device
+  -choosing the drive strength based on the gate charge of the power device<br />
   -the gate charge refers to the required amount of charge to charage and discharge the input capacitance<br />
   
